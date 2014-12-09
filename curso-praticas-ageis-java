@@ -1,0 +1,18 @@
+Curso Práticas Ágeis em Java - Dezembro de 2014
+
+Ferramentas para controle de versão
+
+	GITHUB - controle de versão (pesquisar sobre)
+	- limite de repositorios privados gratuitos
+	- vantagem: commit local (sem necessidade de rede)
+	- commits menores - minimiza a chance de merges e conflitos
+	- comandos (ver apostila):
+		- git clone url: trazer para a máquina uma cópia do repositório;
+		- git log: mostra os ultimos commits, quem fez, quando e o que foi mexido;
+		- git commit -m 'mensagem de comit'
+		- git add: adicionar um arquivo para o proximo commit. Ex.: git add Pessoa.java xpto.jsp
+								       Ex.: git add . (adiciona tudo em vez de quebrar por arquivo)
+
+	BITBUCKET 
+	- sem limite de repositorios privados
+	
