@@ -15,4 +15,22 @@ Ferramentas para controle de versão
 
 	BITBUCKET 
 	- sem limite de repositorios privados
+
+Testes automatizados:
+	- usar o junit para anotar os metodos de teste e usar assertivas;
+	- nomear as classes geralmente com o nome padrao e o sufixo Test
+	- os metodos de teste devem conter basicamente:
+		- entradas
+			- instaciacao dos objetos e propriedades a serem testadas
+		- processamento
+			- invocacao dos metodos que precisam ser testados
+		- saida
+			- assertivas que verificam se o metodo esta corretoe
+Refatoracao:
+	- renomear
+	- extrair metodos principalmente os trechos de codigo repetidos
+	- usar constantes
+	- metodo strategy: criar interfaces para orientar diferentes implementacoes
+
+
 	
